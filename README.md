@@ -1,5 +1,5 @@
 # Introduction
-A simple framework built with react that contains the configuration of react-router and webpack4. Note: Dependencies on styles are not integrated into them.
+A simple framework built with react that contains the configuration of react-router and webpack4.Note: Dependencies on styles are not integrated into them.
 # Technology
 react+webpack4+react-router4
 # Development
