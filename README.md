@@ -3,10 +3,12 @@ A simple framework built with react that contains the configuration of react-rou
 # Technology
 react+webpack4+react-router4
 # Development
-> git clone https://github.com/Sception/react-base-frame.git
+```javascript
+git clone https://github.com/Sception/react-base-frame.git
 
-> npm init
+npm init
 
-> npm run dev(Development model)
+npm run dev(Development model)
 
-> npm run build(Production mode)
+npm run build(Production mode)
+```
